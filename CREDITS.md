@@ -1,6 +1,7 @@
 # Credits
 
 * [Qubitium](https://x.com/qubitium) and [ModelCloud](https://x.com/ModelCloudAI) team for maintaining and improving GPT-QModel
+* **AlpinDale** and the [dphnAI/sonar](https://github.com/dphnAI/sonar) contributors: for creating the [Swordfish](https://blog.alpindale.net/posts/swordfish/) Blackwell (sm100/sm110) w4a16/w8a16 GEMM kernel family, vendored under the GNU AGPL v3.0+ in `gptqmodel_ext/swordfish` and `licenses/SWORDFISH`.
 * **Elias Frantar**, **Saleh Ashkboos**, **Torsten Hoefler** and **Dan Alistarh**: for creating [GPTQ](https://github.com/IST-DASLab/gptq) and [Marlin](https://github.com/IST-DASLab/marlin).
 * **PanQiWei**: for creation of [AutoGPTQ](https://github.com/autogptq/AutoGPTQ) which this project code is based upon.
 * **FXMarty**: for maintaining and support of [AutoGPTQ](https://github.com/autogptq/AutoGPTQ).

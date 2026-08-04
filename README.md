@@ -32,6 +32,7 @@
 * 02/07/2026 7.2.0-dev `main`: ✨ Added `lfm2` and `lfm2_vl` model support
 * 06/30/2026 7.2.0-dev `main`: ✨ Added `minimax_m3_vl` / MiniMax M3 model support
 * 06/25/2026 7.2.0-dev `main`: ✨ Added `cohere2_moe` model support
+* 08/04/2026 7.1.0-dev `main`: 🚀🔥⚡ Added `Swordfish` Blackwell (sm100/sm110) w4a16/w8a16 GPTQ/AWQ GEMM kernel family with JIT compilation. See `licenses/SWORDFISH` for the AGPL-3.0 licensed kernel source.
 * 05/25/2026 7.1.0-dev `main`: ✨ Added `hy_3` and `ministral3` model support
 * 05/25/2026 7.1.0-dev `main`: ✨ Added `hunyuan_v1_dense` and `hunyuan_v1_moe` model support
 * 05/21/2026 7.1.0-dev `main`: ✨ Added `nemotron_labs_diffusion` model support
